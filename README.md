@@ -6,6 +6,8 @@
 **Team:** Lydia · Don · Marcelo
 **Ironhack AI Engineering Bootcamp — 2026**
 
+> This is a personal portfolio copy of our bootcamp team submission, preserved with full original commit history. The original submission repository (shared with Ironhack for grading and left unchanged) lives at [mcorreia10/project-nlp-business-case-automated-customers-reviews-v2](https://github.com/mcorreia10/project-nlp-business-case-automated-customers-reviews-v2).
+>
 > The original assignment brief provided by Ironhack is kept for reference in [Readme_exercise.md](Readme_exercise.md). This document describes what was actually built.
 
 ---
